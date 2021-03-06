@@ -14,9 +14,9 @@
 
 ### 小型黑客松：黑客松 Hackathon Taiwan Junior
 
-- [官網](https://www.hackathonjr.tw/)
+- [官網]：https://www.hackathonjr.tw/
 
-- [臉書](https://www.hackathonjr.tw/)
+- [臉書]：https://www.facebook.com/HackathonTaiwan
 
 主題：
 在covid-19快速爆發的時刻，未來將會如何重新定義共享經濟模式?這除了要看疫苗何時能夠帶領人類走出這片共享經濟陰霾，更重要的是：「在這段非常時期，誰能最先從身邊、社會找到疫情中的不便之處，並讓使用者能真正安心地享受效益，共享經濟的商機就掌握在誰手裡。
